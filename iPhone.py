@@ -1,5 +1,3 @@
-import os
-
 file = open("/private/var/db/os_eligibility/eligibility.plist") #file that contains a few numbers that are important for iPhone Mirroring
 
 newFile = ""
@@ -21,8 +19,6 @@ for line in file:
                 newFile += line
             case _:
                 newFile += line
-
-
 
     else:
         newFile += line
