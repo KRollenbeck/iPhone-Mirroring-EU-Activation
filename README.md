@@ -6,7 +6,7 @@ clone this repository in the terminal with
 > clone https://github.com/KRollenbeck/iPhone-Mirroring-EU-Activation.git
 
 import the MacOS Shortcut with
-> https://www.icloud.com/shortcuts/7fc1c66f4c084b8196e8c7549cb680af
+> https://www.icloud.com/shortcuts/e6c85ade827441f9a7f672c3207159f4
 
 Now you have to follow the Shortcuts Setup steps (adding the path to your python file)
 
